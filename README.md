@@ -1,7 +1,7 @@
 # 야놀자 미니프로젝트 목 서버 레포
 ## 사용법
 1. 새로운 폴더 하나를 만든다.
-2. 코드편집기로 만든 폴더를 연다.
+2. 코드편집기 or 터미널로 만든 폴더를 연다.
 3. 해당 레포지토리를 연결한다.
 ```
 git remote add origin https://github.com/2YH02/mini-mock-server.git
